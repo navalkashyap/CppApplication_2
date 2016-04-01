@@ -19,7 +19,7 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-    cout<<"Hello World!"<<endl;
+    cout<<"Hello World!\nThis is a Linked List workshop"<<endl;
     cout<<"Because I am Happy!!!";
     return 0;
 }
